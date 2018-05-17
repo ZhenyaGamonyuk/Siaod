@@ -1,0 +1,18 @@
+F:\Папка Жени\Сиаод\laba1.1\laba1.1\bin\Debug\laba1.1.exe.config
+F:\Папка Жени\Сиаод\laba1.1\laba1.1\bin\Debug\laba1.1.exe
+F:\Папка Жени\Сиаод\laba1.1\laba1.1\bin\Debug\laba1.1.pdb
+F:\Папка Жени\Сиаод\laba1.1\laba1.1\obj\Debug\laba1.1.csprojResolveAssemblyReference.cache
+F:\Папка Жени\Сиаод\laba1.1\laba1.1\obj\Debug\laba1.1.exe
+F:\Папка Жени\Сиаод\laba1.1\laba1.1\obj\Debug\laba1.1.pdb
+E:\Сиаод\laba1.1\laba1.1\bin\Debug\laba1.1.exe.config
+E:\Сиаод\laba1.1\laba1.1\obj\Debug\laba1.1.exe
+E:\Сиаод\laba1.1\laba1.1\obj\Debug\laba1.1.pdb
+E:\Сиаод\laba1.1\laba1.1\bin\Debug\laba1.1.exe
+E:\Сиаод\laba1.1\laba1.1\bin\Debug\laba1.1.pdb
+E:\Сиаод\laba1.1\laba1.1\obj\Debug\laba1.1.csprojResolveAssemblyReference.cache
+G:\Сиаод\laba1.1\laba1.1\bin\Debug\laba1.1.exe.config
+G:\Сиаод\laba1.1\laba1.1\obj\Debug\laba1.1.exe
+G:\Сиаод\laba1.1\laba1.1\obj\Debug\laba1.1.pdb
+G:\Сиаод\laba1.1\laba1.1\bin\Debug\laba1.1.exe
+G:\Сиаод\laba1.1\laba1.1\bin\Debug\laba1.1.pdb
+G:\Сиаод\laba1.1\laba1.1\obj\Debug\laba1.1.csprojResolveAssemblyReference.cache

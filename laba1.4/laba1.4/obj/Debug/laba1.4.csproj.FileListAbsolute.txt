@@ -1,0 +1,9 @@
+E:\Сиаод\laba1.4\laba1.4\bin\Debug\laba1.4.exe.config
+E:\Сиаод\laba1.4\laba1.4\bin\Debug\laba1.4.exe
+E:\Сиаод\laba1.4\laba1.4\bin\Debug\laba1.4.pdb
+E:\Сиаод\laba1.4\laba1.4\obj\Debug\laba1.4.csprojResolveAssemblyReference.cache
+E:\Сиаод\laba1.4\laba1.4\obj\Debug\laba1.4.exe
+E:\Сиаод\laba1.4\laba1.4\obj\Debug\laba1.4.pdb
+G:\Сиаод\laba1.4\laba1.4\bin\Debug\laba1.4.exe.config
+G:\Сиаод\laba1.4\laba1.4\obj\Debug\laba1.4.exe
+G:\Сиаод\laba1.4\laba1.4\obj\Debug\laba1.4.pdb

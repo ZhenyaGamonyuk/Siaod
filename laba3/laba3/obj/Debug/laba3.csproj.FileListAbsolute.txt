@@ -1,0 +1,9 @@
+E:\Сиаод\laba3\laba3\bin\Debug\laba3.exe.config
+E:\Сиаод\laba3\laba3\bin\Debug\laba3.exe
+E:\Сиаод\laba3\laba3\bin\Debug\laba3.pdb
+E:\Сиаод\laba3\laba3\obj\Debug\laba3.csprojResolveAssemblyReference.cache
+E:\Сиаод\laba3\laba3\obj\Debug\laba3.exe
+E:\Сиаод\laba3\laba3\obj\Debug\laba3.pdb
+G:\Сиаод\laba3\laba3\bin\Debug\laba3.exe.config
+G:\Сиаод\laba3\laba3\obj\Debug\laba3.exe
+G:\Сиаод\laba3\laba3\obj\Debug\laba3.pdb
